@@ -72,7 +72,7 @@ Data Structures, Object-Oriented Programming, REST APIs, Data Cleaning, Machine 
 
 ## Connect With Me
 
-- **LinkedIn:** (www.linkedin.com/in/sofia-filgueira-929a31348)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/sofia-filgueira-929a31348)
 - **GitHub:** [sf00053](https://github.com/sf00053)
 
 ---
